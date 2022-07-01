@@ -1,7 +1,11 @@
-# MOD2_Projeto02
+# MOD2_Projeto01
 
 Segundo projeto do Modulo 2 do curso Full Stack.
 
+
+Linguagem: JavaScript
+
+Tecnologias: Node.JS, HTML 5, CSS 3, JavaScript Vanilla.
 
 
 Requisitos para o projeto:
