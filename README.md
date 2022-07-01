@@ -1,6 +1,6 @@
 # MOD2_Projeto01
 
-Segundo projeto do Modulo 2 do curso Full Stack.
+Primeiro projeto do Modulo 2 do curso Full Stack.
 
 
 Linguagem: JavaScript
