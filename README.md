@@ -23,3 +23,7 @@ No mínimo 2 elementos do DOM alterados (texto e imagem).
 Deploy do projeto no GitHub Pages.
 
 Responsividade aplicada.
+
+link do deploy:
+
+https://atilamariano.github.io/MOD2_Projeto01/
